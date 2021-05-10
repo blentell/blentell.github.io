@@ -4,7 +4,8 @@
 * Games
 * Food
 ### Picture
-(https://github.com/blentell/blentell.github.io/profile_pic.jpg "My Picture")
+![Picture](https://github.com/blentell/blentell.github.io/raw/main/profile_pic.jpg "My Picture")
+
 ### Youtube video:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=PmBln-7PjMY
 " target="_blank"><img src="http://img.youtube.com/vi/PmBln-7PjMY" 
