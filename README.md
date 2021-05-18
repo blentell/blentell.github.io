@@ -1,6 +1,6 @@
 # About me!
 
-## My likes...
+## Things I like:
 
 - Computers
 - Games
